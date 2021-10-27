@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1634113436 source:d:\programming\newpattern\main.cpp
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<dos.h>
+	<math.h>
+	<conio.h>
+
