@@ -11,7 +11,7 @@ public:
     STACK()
     {
         top=-1; 
-    } 
+    }
 void push(char);
 void reverse(); 
 void convert(char[]);
